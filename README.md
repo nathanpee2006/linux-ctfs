@@ -1,30 +1,36 @@
-============================================================
-         LEARN TO CLOUD - CTF COMPLETION CERTIFICATE
-============================================================
+============================================================ 
 
-  This certifies that GitHub user
+LEARN TO CLOUD - CTF COMPLETION CERTIFICATE
 
-              nathanpee2006
+This certifies that GitHub user nathanpee2006
+has successfully completed all 18 Linux CTF challenges
 
-  has successfully completed all 18 Linux CTF challenges
-
-  Completion Time: 47:35
-  Date: 2026-06-21
+Completion Time: 47:35 
+Date: 2026-06-21
 
   Challenges Completed:
-   * Hidden File Discovery      * Service Discovery
-   * Basic File Search          * Encoding Challenge
-   * Log Analysis               * SSH Secrets
-   * User Investigation         * DNS Inspection
-   * Permission Analysis        * Remote Upload Detection
-   * Web Configuration          * Network Traffic Analysis
-   * Cron Job Hunter            * Process Environment
-   * Archive Archaeologist      * Symbolic Sleuth
-   * History Mystery            * Disk Detective
+   * Hidden File Discovery      
+   * Service Discovery
+   * Basic File Search          
+   * Encoding Challenge
+   * Log Analysis               
+   * SSH Secrets
+   * User Investigation         
+   * DNS Inspection
+   * Permission Analysis        
+   * Remote Upload Detection
+   * Web Configuration          
+   * Network Traffic Analysis
+   * Cron Job Hunter            
+   * Process Environment
+   * Archive Archaeologist      
+   * Symbolic Sleuth
+   * History Mystery            
+   * Disk Detective
 
-============================================================
-                    Congratulations!
-============================================================
+============================================================ 
+
+Congratulations!
 
 # Phase 1: Linux Command Line CTF Challenge
 
